@@ -1,6 +1,10 @@
 This was my Third-Year Electronics & Telecommunication Engineering Mini Project.
 
+A X-Y Plotter running on a single 8051 microcontroller, with all hardware and software designed and implemented from the scratch!
+
 I made it with [Debayan](https://www.linkedin.com/in/debayan-mazumdar-1a8a5821a/?originalSubdomain=in), a good friend of mine.
+
+Debayan did most of the hardware and I wrote most of the software.
 
 Unfortunately, most of the code we wrote is now lost somewhere deep within the labyrinth of computers in the Microcontrollers Lab at PICT.
 
